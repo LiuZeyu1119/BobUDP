@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>showpage/ButtonPage.qml</file>
+        <file>showpage/CheckboxPage.qml</file>
+        <file>showpage/ColorPage.qml</file>
+        <file>showpage/ComboBoxPage.qml</file>
+        <file>showpage/InputPage.qml</file>
+        <file>showpage/NavExpListView.qml</file>
+        <file>showpage/PaginationPage.qml</file>
+        <file>showpage/ProgressBarPage.qml</file>
+        <file>showpage/RadioButtonPage.qml</file>
+        <file>showpage/SliderPage.qml</file>
+        <file>showpage/SpinboxPage.qml</file>
+        <file>showpage/SwitchPage.qml</file>
+        <file>showpage/NoticePage.qml</file>
+        <file>showpage/NavigationPage.qml</file>
+        <file>image/background.jpg</file>
+        <file>image/background.mp4</file>
+        <file>image/background.mov</file>
+        <file>image/background.webm</file>
+        <file>image/transing.gif</file>
+        <file>AboutWindow.qml</file>
+    </qresource>
+</RCC>

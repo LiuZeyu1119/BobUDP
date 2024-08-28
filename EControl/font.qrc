@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>font/fa-light-300.ttf</file>
+        <file>font/fa-regular-400.ttf</file>
+        <file>font/fa-solid-900.ttf</file>
+        <file>font/SourceHanSans-Medium.ttf</file>
+        <file>font/SourceHanSans-Regular.ttf</file>
+        <file>font/SourceHanSansSC-Normal-2.otf</file>
+    </qresource>
+</RCC>

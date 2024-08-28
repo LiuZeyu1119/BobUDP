@@ -1,0 +1,36 @@
+module EControl
+
+EBaseBtn            1.0     base/button/EBaseBtn.qml
+EDangerBtn          1.0     base/button/EDangerBtn.qml
+EIconBaseBtn        1.0     base/button/EIconBaseBtn.qml
+EIconBtn            1.0     base/button/EIconBtn.qml
+EIconDangerBtn      1.0     base/button/EIconDangerBtn.qml
+EIconInfoBtn        1.0     base/button/EIconInfoBtn.qml
+EIconMainBtn        1.0     base/button/EIconMainBtn.qml
+EIconSuccessBtn     1.0     base/button/EIconSuccessBtn.qml
+EIconWarningBtn     1.0     base/button/EIconWarningBtn.qml
+EInfoBtn            1.0     base/button/EInfoBtn.qml
+ELoadingBtn         1.0     base/button/ELoadingBtn.qml
+EMainBtn            1.0     base/button/EMainBtn.qml
+ESuccessBtn         1.0     base/button/ESuccessBtn.qml
+EWarningBtn         1.0     base/button/EWarningBtn.qml
+ColorCopyRet        1.0     base/color/ColorCopyRet.qml
+ECheckbox           1.0     form/checkbox/ECheckbox.qml
+ECombobox           1.0     form/combobox/ECombobox.qml
+EBaseInput          1.0     form/input/EBaseInput.qml
+EClearableInput     1.0     form/input/EClearableInput.qml
+EPasswordInput      1.0     form/input/EPasswordInput.qml
+ERadioBtn           1.0     form/radiobtn/ERadioBtn.qml
+ESlider             1.0     form/slider/ESlider.qml
+ESpinBox            1.0     form/spinbox/ESpinBox.qml
+ESwitch             1.0     form/switch/ESwitch.qml
+EBaseProgressBar    1.0     data/progressBar/EBaseProgressBar.qml
+ETextProgressBar    1.0     data/progressBar/ETextProgressBar.qml
+ERoundProgressBar   1.0     data/progressBar/ERoundProgressBar.qml
+EDashboardPrgBar    1.0     data/progressBar/EDashboardPrgBar.qml
+EPagination         1.0     data/pagination/EPagination.qml
+ELoading            1.0     notice/loading/ELoading.qml
+EToast              1.0     notice/toast/EToast.qml
+EMessageBox         1.0     notice/messagebox/EMessageBox.qml
+EBaseTabBar         1.0     navigation/EBaseTabBar.qml
+ECardTabBar         1.0     navigation/ECardTabBar.qml

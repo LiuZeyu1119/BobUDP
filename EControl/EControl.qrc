@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/EControl">
+        <file>form/radiobtn/ERadioBtn.qml</file>
+        <file>form/checkbox/ECheckbox.qml</file>
+        <file>base/color/ColorCopyRet.qml</file>
+        <file>base/button/EBaseBtn.qml</file>
+        <file>base/button/EDangerBtn.qml</file>
+        <file>base/button/EIconBaseBtn.qml</file>
+        <file>base/button/EIconBtn.qml</file>
+        <file>base/button/EIconDangerBtn.qml</file>
+        <file>base/button/EIconInfoBtn.qml</file>
+        <file>base/button/EIconMainBtn.qml</file>
+        <file>base/button/EIconSuccessBtn.qml</file>
+        <file>base/button/EIconWarningBtn.qml</file>
+        <file>base/button/EInfoBtn.qml</file>
+        <file>base/button/ELoadingBtn.qml</file>
+        <file>base/button/EMainBtn.qml</file>
+        <file>base/button/ESuccessBtn.qml</file>
+        <file>base/button/EWarningBtn.qml</file>
+        <file>form/input/EBaseInput.qml</file>
+        <file>form/input/EClearableInput.qml</file>
+        <file>form/input/EPasswordInput.qml</file>
+        <file>form/spinbox/ESpinBox.qml</file>
+        <file>form/combobox/ECombobox.qml</file>
+        <file>form/switch/ESwitch.qml</file>
+        <file>form/slider/ESlider.qml</file>
+        <file>qmldir</file>
+        <file>data/progressBar/EBaseProgressBar.qml</file>
+        <file>data/progressBar/ETextProgressBar.qml</file>
+        <file>data/progressBar/ERoundProgressBar.qml</file>
+        <file>data/progressBar/EDashboardPrgBar.qml</file>
+        <file>data/pagination/EPagination.qml</file>
+        <file>notice/loading/ELoading.qml</file>
+        <file>notice/toast/EToast.qml</file>
+        <file>notice/messagebox/EMessageBox.qml</file>
+        <file>navigation/EBaseTabBar.qml</file>
+        <file>navigation/ECardTabBar.qml</file>
+    </qresource>
+</RCC>
